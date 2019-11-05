@@ -1,0 +1,255 @@
+{
+  "basics": {
+    "name": "王雋凱",
+    "label": "Full Stack Web Developer",
+    "picture": "https://s.gravatar.com/avatar/a770595a74d872ac85e9ae1b12bb67a3?s=240",
+    "email": "chunkai1312@gmail.com",
+    "phone": "+886-975-923-503",
+    "website": "https://blog.ckwang.net",
+    "summary": "一個網頁全端開發者，目前專注於 TypeScript/JavaScript/Node.js/React.js 及 DevOps，並維護數個開源專案。",
+    "location": {
+      "address": "中正區牯嶺街95巷109號",
+      "postalCode": "10085",
+      "city": "台北市",
+      "countryCode": "TW",
+      "region": "台灣"
+    },
+    "profiles": [
+      {
+        "network": "facebook",
+        "username": "chunkai1312",
+        "url": "https://facebook.com/kevin.chunkai.wang"
+      },
+      {
+        "network": "linkedin",
+        "username": "chunkai1312",
+        "url": "https://www.linkedin.com/in/chunkai1312"
+      },
+      {
+        "network": "gitHub",
+        "username": "chunkai1312",
+        "url": "https://github.com/chunkai1312"
+      },
+      {
+        "network": "slideshare",
+        "username": "chunkai1312",
+        "url": "https://www.slideshare.net/chunkai1312"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "潮網科技股份有限公司",
+      "position": "主任工程師",
+      "website": "https://www.wavenet.com.tw",
+      "startDate": "2017-07-16",
+      "summary": "領導軟體專案開發，為團隊成員提供技術指導與解決方案。與軟體工程師和產品經理密切合作，規劃軟體人員與產品開發",
+      "highlights": [
+        "領導研發團隊成員，設計和開發公司內部的廣告報表系統，以改善媒體團隊的工作流程並大幅提高生產力",
+        "為需要快速周轉和透明的專案引入了敏捷軟體開發方法",
+        "主導數個軟體專案並設計與實作一套自動化持續整合與持續交付的流程"
+      ]
+    },
+    {
+      "company": "潮網科技股份有限公司",
+      "position": "軟體工程師",
+      "website": "https://www.wavenet.com.tw",
+      "startDate": "2015-08-03",
+      "endDate": "2017-07-15",
+      "summary": "參與數位行銷廣告平台之系統設計，開發與維護",
+      "highlights": [
+        "開發廣告代理商交易平台，整合 Facebook Ads、Google Ads 和 Punwave DSP，以動態分配預算來投放廣告",
+        "開發廣告優化系統，即時監控跨媒體廣告成效、執行動態預算分配",
+        "實作廣告追蹤碼，以追蹤和找到適當的再行銷廣告活動的目標受眾"            
+      ]
+    },
+    {
+      "company": "國立臺灣科技大學資訊管理系",
+      "position": "兼任研究助理",
+      "startDate": "2015-01-01",
+      "endDate": "2015-07-31",
+      "summary": "執行正崴集團產學暨技轉案「物聯網智慧感測裝置之使用者客製化服務平台」",
+      "highlights": [
+        "設計並實作結合穿戴式智慧感測裝置與家庭室內智慧感測裝置的物聯網智慧感測裝置之使用者客製化服務平台",
+        "該平台能蒐集、保存、分析、統計、彙整所有目標人物或環境的感測資料並能呈現運算結果給使用者或平台管理者",
+        "該平台實作包含伺服器端與客戶端，提供網頁與App跨平台的使用者個人化健康管理服務"
+      ]
+    },
+    {
+      "company": "國立臺灣科技大學資訊管理系",
+      "position": "兼任研究助理",
+      "startDate": "2013-08-01",
+      "endDate": "2014-07-31",
+      "summary": "執行科技部整合型研究計畫「可信賴的 App 安全應用框架－App 程式碼及多個 App 間資料交換的完整性保證之研究」",
+      "highlights": [
+        "提出適用於 Android 平台的 App 源碼完整性檢測機制與模組",
+        "實作 App 完整性偵測應用程式，讓使用者可以對指定的 App 進行完整性驗證，確保使用者取得的 App 沒有安全疑慮",
+        "實作 App 檢測伺服器，定時擷取最新合法版本的 Apps 建立資料庫，接收客戶端程式資料進行比對並回傳檢測結果"
+      ]
+    },
+    {
+      "company": "中正國防幹部預備學校學生第一大隊",
+      "position": "少尉區隊長",
+      "startDate": "2012-08-06",
+      "endDate": "2013-07-07",
+      "summary": "第 62 期義務役預備軍官，擔任中正國防幹部預備學校學生大隊少尉區隊長，領導超過 400 位學生",
+      "highlights": [
+        "辦理學生獎懲事務並指導學生課業相關問題",
+        "使用 Excel VBA 開發用於大隊人事管理的排假系統",
+        "服務單位期間獲得傑出貢獻獎"
+      ]
+    },
+    {
+      "company": "國立臺灣科技大學資訊管理系",
+      "position": "網站開發者",
+      "startDate": "2011-10-01",
+      "endDate": "2012-06-30",
+      "summary": "國立臺灣科技大學資訊管理系之系網站建置與開發",
+      "highlights": [
+        "規劃網站架構並與系所人員討論功能需求",
+        "設計資料庫架構並開發 SQL scripts 建立資料庫",
+        "使用 PHP 與 MySQL 建置網站，並確保功能於主流瀏覽器上能正常運作"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "國立臺灣科技大學",
+      "area": "資訊管理",
+      "studyType": "碩士",
+      "startDate": "2013-09-01",
+      "endDate": "2015-06-30"
+    },
+    {
+      "institution": "國立臺灣科技大學",
+      "area": "資訊管理, 科技管理",
+      "studyType": "學士",
+      "startDate": "2008-09-01",
+      "endDate": "2012-07-31"
+    }
+  ],
+  "awards": [
+    {
+      "title": "2014年經濟部技術處搶鮮大賽系統實作類佳作",
+      "date": "2014-12-01",
+      "awarder": "中華民國經濟部技術處"
+    },
+    {
+      "title": "國立臺灣科技大學資訊管理系(所)103學年度傑出青年",
+      "date": "2014-12-01",
+      "awarder": "國立臺灣科技大學資訊管理系(所)"
+    },
+    {
+      "title": "國立臺灣科技大學100學年度資訊管理系實務專題競賽第一名",
+      "date": "2011-12-01",
+      "awarder": "國立臺灣科技大學"
+    },
+    {
+      "title": "2011 App Star高手爭霸戰市集應用軟體設計大賽入圍",
+      "date": "2011-12-01",
+      "awarder": "中華民國經濟部工業局"
+    },
+    {
+      "title": "2011第16屆大專校院資訊服務創新競賽IAP2資訊技術應用組第二名",
+      "date": "2011-11-01",
+      "awarder": "中華民國經濟部工業局"
+    },
+    {
+      "title": "2011第16屆大專校院資訊服務創新競賽智慧手持裝置應用主題獎",
+      "date": "2011-11-01",
+      "awarder": "中華民國經濟部工業局"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A NFC-Based Authentication Scheme for Personalized IPTV Services",
+      "publisher": "Advances in Intelligent Information Hiding and Multimedia Signal Processing",
+      "releaseDate": "2017-07-18",
+      "website": "https://doi.org/10.1007/978-3-319-63859-1_34"
+    },
+    {
+      "name": "A robust NFC-based personalized IPTV service system",
+      "publisher": "Multimedia Tools and Applications",
+      "releaseDate": "2017-03-10",
+      "website": "https://doi.org/10.1007/s11042-017-4380-z"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "familiar",
+      "keywords": [
+        "JavaScript",
+        "PHP",
+        "Java",
+        "C#",
+        "C/C++",
+        "Shell"
+      ]
+    },
+    {
+      "name": "Platform",
+      "level": "familiar",
+      "keywords": [
+        "Windows",
+        "Linux/Unix",
+        "Mac OS X"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "familiar",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MSSQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "familiar",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React/Redux",
+        "AngularJS",
+        "Vue"        
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "familiar",
+      "keywords": [
+        "Node.js",
+        "PHP",
+        "Express",
+        "Koa",
+        "Laravel",
+        "CodeIgniter"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "familiar",
+      "keywords": [
+        "Android",
+        "React Native",
+        "PhoneGap/Cordova",
+        "Ionic"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "familiar"
+    }
+  ]
+}

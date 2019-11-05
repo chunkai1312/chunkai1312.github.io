@@ -1,0 +1,31 @@
+{
+  "header": {
+    "about": "關於我",
+    "experience": "經歷",
+    "skills": "專長",
+    "education": "學歷",
+    "blog": "部落格",
+    "contact": "聯絡方式"
+  },
+  "content": {
+    "downloadResume": "下載履歷",
+    "experience": "工作經歷",
+    "skills": "專業技能",
+    "education": "學歷",
+    "blog": "部落格文章",
+    "contact": "聯絡方式"
+  },
+  "contactForm": {
+    "contactMe": "歡迎與我聯繫",
+    "name": "姓名",
+    "email": "電子郵件",
+    "subject": "主旨",
+    "message": "訊息",
+    "send": "送出"
+  },
+  "contactInfo": {
+    "location": "居住地",
+    "email": "電子郵件",
+    "phone": "電話"
+  }
+}

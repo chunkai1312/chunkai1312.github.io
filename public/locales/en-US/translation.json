@@ -1,0 +1,31 @@
+{
+  "header": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "education": "Education",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "content": {
+    "downloadResume": "Download Resume",
+    "experience": "Work Experience",
+    "skills": "Professional Skills",
+    "education": "Education",
+    "blog": "Articles",
+    "contact": "Contact Me"
+  },
+  "contactForm": {
+    "contactMe": "Feel free to contact me",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send"
+  },
+  "contactInfo": {
+    "location": "Location",
+    "email": "Email",
+    "phone": "Phone"
+  }
+}
