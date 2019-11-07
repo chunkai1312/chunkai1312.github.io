@@ -1,0 +1,247 @@
+{
+  "basics": {
+    "name": "王雋凱",
+    "label": "Web Developer",
+    "picture": "https://s.gravatar.com/avatar/a770595a74d872ac85e9ae1b12bb67a3?s=240",
+    "email": "chunkai1312@gmail.com",
+    "phone": "+886-975-923-503",
+    "website": "https://blog.ckwang.net",
+    "summary": "A full-stack engineer, focus on JavaScript/Node.js, Web Development and DevOps.",
+    "location": {
+      "address": "中正區牯嶺街95巷109號",
+      "postalCode": "10085",
+      "city": "台北市",
+      "countryCode": "TW",
+      "region": "台灣"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "chunkai1312",
+        "url": "https://github.com/chunkai1312"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "潮網科技股份有限公司",
+      "position": "主任工程師",
+      "website": "https://www.wavenet.com.tw",
+      "startDate": "2017-07-16",
+      "summary": "領導軟體專案開發，為團隊成員提供技術指導與解決方案。與軟體工程師和產品經理密切合作，規劃軟體人員與產品開發。",
+      "highlights": [
+        "領導研發團隊成員，設計和開發公司內部的廣告報表系統，以改善媒體團隊的工作流程並大幅提高生產力。",
+        "為需要快速周轉和透明的專案引入了敏捷軟體開發方法。",
+        "設計並實作一套自動化持續整合與持續交付的流程"
+      ]
+    },
+    {
+      "company": "潮網科技股份有限公司",
+      "position": "軟體工程師",
+      "website": "https://www.wavenet.com.tw",
+      "startDate": "2015-08-03",
+      "endDate": "2017-07-15",
+      "summary": "參與數位行銷廣告平台之系統設計，開發與維護",
+      "highlights": [
+        "開發廣告代理商交易平台，整合Facebook Ads，Google Ads 和 Punwave DSP，以動態分配預算來投放廣告。",
+        "開發廣告優化系統，即時監控跨媒體廣告成效、執行動態預算分配。",
+        "實作廣告追蹤碼，以追蹤和找到適當的再行銷廣告活動的目標受眾。"            
+      ]
+    },
+    {
+      "company": "國立臺灣科技大學資訊管理系(所)",
+      "position": "兼任研究助理",
+      "startDate": "2015-01-01",
+      "endDate": "2015-07-31",
+      "summary": "正崴集團產學合作計畫",
+      "highlights": [
+        "協助開發物聯網智慧感測裝置之使用者客製化服務平台",
+        "設計資料交換格式與API規範"
+      ]
+    },
+    {
+      "company": "國立臺灣科技大學資訊管理系(所)",
+      "position": "教學助理",
+      "startDate": "2014-09-01",
+      "endDate": "2015-01-31",
+      "summary": "Assisted teaching graduate-level course \"Introduction to RFID Information Security\".",
+      "highlights": [
+        "負責編寫教材並教授程式設計實驗課程",
+        "設計實驗課程基於 Android 裝置和近場通訊技術的相關實作演練"
+      ]
+    },
+    {
+      "company": "國立臺灣科技大學資訊管理系(所)",
+      "position": "教學助理",
+      "startDate": "2014-02-01",
+      "endDate": "2014-06-30",
+      "summary": "Assisted teaching course \"Programming Language\" and introduced object-oriented programming.",
+      "highlights": [
+        "教授不在時指導實驗室部分和講課",
+        "為學生提供了學習Java基礎知識和設計模式基本概念的積極氛圍"
+      ]
+    },
+    {
+      "company": "國立臺灣科技大學資通安全研究與教學中心",
+      "position": "兼任研究助理",
+      "startDate": "2013-08-01",
+      "endDate": "2014-07-31",
+      "summary": "可信賴的App安全應用框架－App程式碼及多個App間資料交換的完整性保證之研究",
+      "highlights": [
+        "提供了一種解決App重新打包和源完整性保證問題的機制。",
+        "設計並實現了App Integrity Detection Application模組和App Screener Server模組。"
+      ]
+    },
+    {
+      "company": "中正國防幹部預備學校學生第一大隊",
+      "position": "少尉區隊長",
+      "startDate": "2012-08-06",
+      "endDate": "2013-07-07",
+      "summary": "第62期義務役預備軍官，擔任中正國防幹部預備學校學生大隊少尉區隊長，領導超過400位學生",
+      "highlights": [
+        "使用VBA開發了用於團隊人事管理的請假系統。",
+        "服務單位期間榮獲傑出貢獻獎"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "國立臺灣科技大學",
+      "area": "資訊管理",
+      "studyType": "碩士",
+      "startDate": "2013-09-01",
+      "endDate": "2015-06-30"
+    },
+    {
+      "institution": "國立臺灣科技大學",
+      "area": "資訊管理, 科技管理",
+      "studyType": "學士",
+      "startDate": "2008-09-01",
+      "endDate": "2012-07-31"
+    }
+  ],
+  "awards": [
+    {
+      "title": "2014年經濟部技術處搶鮮大賽系統實作類佳作",
+      "date": "2014-12-01",
+      "awarder": "中華民國經濟部技術處"
+    },
+    {
+      "title": "國立臺灣科技大學資訊管理系(所)103學年度傑出青年",
+      "date": "2014-12-01",
+      "awarder": "國立臺灣科技大學資訊管理系(所)"
+    },
+    {
+      "title": "國立臺灣科技大學100學年度資訊管理系實務專題競賽第一名",
+      "date": "2011-12-01",
+      "awarder": "國立臺灣科技大學"
+    },
+    {
+      "title": "2011 App Star高手爭霸戰市集應用軟體設計大賽入圍",
+      "date": "2011-12-01",
+      "awarder": "中華民國經濟部工業局"
+    },
+    {
+      "title": "2011第16屆大專校院資訊服務創新競賽IAP2資訊技術應用組第二名",
+      "date": "2011-11-01",
+      "awarder": "中華民國經濟部工業局"
+    },
+    {
+      "title": "2011第16屆大專校院資訊服務創新競賽智慧手持裝置應用主題獎",
+      "date": "2011-11-01",
+      "awarder": "中華民國經濟部工業局"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A NFC-Based Authentication Scheme for Personalized IPTV Services",
+      "publisher": "Advances in Intelligent Information Hiding and Multimedia Signal Processing",
+      "releaseDate": "2017-07-18",
+      "website": "https://doi.org/10.1007/978-3-319-63859-1_34"
+    },
+    {
+      "name": "A robust NFC-based personalized IPTV service system",
+      "publisher": "Multimedia Tools and Applications",
+      "releaseDate": "2017-03-10",
+      "website": "https://doi.org/10.1007/s11042-017-4380-z"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "familiar",
+      "keywords": [
+        "JavaScript",
+        "PHP",
+        "Java",
+        "C#",
+        "C/C++",
+        "Shell"
+      ]
+    },
+    {
+      "name": "Platform",
+      "level": "familiar",
+      "keywords": [
+        "Windows",
+        "Linux/Unix",
+        "Mac OS X"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "familiar",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MSSQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "familiar",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React/Redux",
+        "AngularJS",
+        "Vue"        
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "familiar",
+      "keywords": [
+        "Node.js",
+        "PHP",
+        "Express",
+        "Koa",
+        "Laravel",
+        "CodeIgniter"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "familiar",
+      "keywords": [
+        "Android",
+        "React Native",
+        "PhoneGap/Cordova",
+        "Ionic"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "familiar"
+    }
+  ]
+}

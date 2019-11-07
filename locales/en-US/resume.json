@@ -1,0 +1,262 @@
+{
+  "basics": {
+    "name": "Chun-Kai Wang",
+    "label": "Web Developer",
+    "picture": "https://s.gravatar.com/avatar/a770595a74d872ac85e9ae1b12bb67a3?s=240",
+    "email": "chunkai1312@gmail.com",
+    "phone": "+886-975-923-503",
+    "website": "https://blog.ckwang.net",
+    "summary": "A full-stack engineer, focus on JavaScript/Node.js, Web Development and DevOps.",
+    "location": {
+      "address": "No.109, Ln. 95, Guling St., Zhongzheng Dist.",
+      "postalCode": "10085",
+      "city": "Taipei",
+      "countryCode": "TW",
+      "region": "Taiwan"
+    },
+    "profiles": [
+      {
+        "network": "facebook",
+        "username": "chunkai1312",
+        "url": "https://facebook.com/chunkai1312"
+      },
+      {
+        "network": "linkedin",
+        "username": "chunkai1312",
+        "url": "https://www.linkedin.com/in/chunkai1312"
+      },
+      {
+        "network": "gitHub",
+        "username": "chunkai1312",
+        "url": "https://github.com/chunkai1312"
+      },
+      {
+        "network": "slideshare",
+        "username": "chunkai1312",
+        "url": "https://www.slideshare.net/chunkai1312"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Wavenet Technology",
+      "position": "Principal Software Engineer",
+      "website": "https://www.wavenet.com.tw",
+      "startDate": "2017-07-16",
+      "summary": "Software lead for projects, provided technical direction to the team members, worked closely with the Software Engineers and Product Managers, planned software staffing and product development.",
+      "highlights": [
+        "Led R&D team members to design and develop an company's internal ad reporting system that improved media team workflow and dramatically increased productivity.",
+        "Introduced Agile Software Development methodology for project that required quick turnaround and transparency.",
+        "Designed, implemented and supported fully automated Continuous Integration and Continuous Delivery processes."
+      ]
+    },
+    {
+      "company": "Wavenet Technology",
+      "position": "Software Engineer",
+      "website": "https://www.wavenet.com.tw",
+      "startDate": "2015-08-03",
+      "endDate": "2017-07-15",
+      "summary": "Participated in system design, development and maintenance for digital marketing advertising platform.",
+      "highlights": [
+        "Developed an agency trading desk to integrate Facebook, Google & Punwave DSP to serve ads with dynamic budget allocation.",
+        "Developed an ad optimization system for cross-media performance monitoring and dynamic budget allocation according to the ad performance in real-time.",
+        "Implemented ad pixel code to track and find proper Target Audience for remarketing campaigns."            
+      ]
+    },
+    {
+      "company": "Department of Information Management, National Taiwan University of Science and Technology",
+      "position": "Research Assistant",
+      "startDate": "2015-01-01",
+      "endDate": "2015-07-31",
+      "summary": "Assisted executing industry-university cooperative research project with Foxlink International Inc.",
+      "highlights": [
+        "Developed a user-customized service platform for IoT-based senser devices.",
+        "Designed data exchange format and API specifications."
+      ]
+    },
+    {
+      "company": "Department of Information Management, National Taiwan University of Science and Technology",
+      "position": "Teaching Assistant",
+      "startDate": "2014-09-01",
+      "endDate": "2015-01-31",
+      "summary": "Assisted teaching graduate-level course \"Introduction to RFID Information Security\".",
+      "highlights": [
+        "Developed the course material and taught programming lab sections.",
+        "Designed and implemented laboratory exercises based on Android devices and Near-field communication (NFC) technology for the course."
+      ]
+    },
+    {
+      "company": "Department of Information Management, National Taiwan University of Science and Technology",
+      "position": "Teaching Assistant",
+      "startDate": "2014-02-01",
+      "endDate": "2014-06-30",
+      "summary": "Assisted teaching course \"Programming Language\" and introduced object-oriented programming.",
+      "highlights": [
+        "Supervised lab sections and lectured course when professor was unavailable.",
+        "Provided a positive atmosphere to students learning the fundamentals of Java, and basic concepts of Design Patterns."
+      ]
+    },
+    {
+      "company": "Taiwan Information Security Center, National Taiwan University of Science and Technology",
+      "position": "Research Assistant",
+      "startDate": "2013-08-01",
+      "endDate": "2014-07-31",
+      "summary": "Assisted researches of National Science Council project \"Integrity Assurance on App Program Source and Data Exchange among Apps\".",
+      "highlights": [
+        "Provided a mechanism to solve App repackaging and source integrity assurance issue.",
+        "Designed and implemented the App Integrity Detection Application module and App Screener server module."
+      ]
+    },
+    {
+      "company": "R.O.C. (Taiwan) Army",
+      "position": "Second Lieutenant",
+      "startDate": "2012-08-06",
+      "endDate": "2013-07-07",
+      "summary": "Served in Chung Cheng Armed Forces Preparatory School for compulsory military service, led more than 400 students.",
+      "highlights": [
+        "Developed a leave system for group's human management by using VBA.",
+        "Awarded outstanding contribution award."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Taiwan University of Science and Technology",
+      "area": "Information Management",
+      "studyType": "Master",
+      "startDate": "2013-09-01",
+      "endDate": "2015-06-30"
+    },
+    {
+      "institution": "National Taiwan University of Science and Technology",
+      "area": "Information Management, Technology Management",
+      "studyType": "Bachelor",
+      "startDate": "2008-09-01",
+      "endDate": "2012-07-31"
+    }
+  ],
+  "awards": [
+    {
+      "title": "2014 Ministry of Economic Affairs Get Fresh Contest Honorable Mention",
+      "date": "2014-12-01",
+      "awarder": "Department of Industrial Technology of Economic Affairs, R.O.C. (Taiwan)"
+    },
+    {
+      "title": "2014 NTUST Department of Information Management Outstanding Youth Award",
+      "date": "2014-12-01",
+      "awarder": "Department of Information Management, NTUST"
+    },
+    {
+      "title": "2012 NTUST Best Undergraduate Senior Project Award",
+      "date": "2011-12-01",
+      "awarder": "National Taiwan University of Science and Technology"
+    },
+    {
+      "title": "2011 App Star Mobile Application Competition Judges' Award",
+      "date": "2011-12-01",
+      "awarder": "Industrial Development Bureau Ministry of Economic Affairs, R.O.C. (Taiwan)"
+    },
+    {
+      "title": "2011 IT Services Innovation Contest Second Place Award",
+      "date": "2011-11-01",
+      "awarder": "Industrial Development Bureau Ministry of Economic Affairs, R.O.C. (Taiwan)"
+    },
+    {
+      "title": "2011 IT Services Innovation Contest Topics Place Award",
+      "date": "2011-11-01",
+      "awarder": "Industrial Development Bureau Ministry of Economic Affairs, R.O.C. (Taiwan)"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A NFC-Based Authentication Scheme for Personalized IPTV Services",
+      "publisher": "Advances in Intelligent Information Hiding and Multimedia Signal Processing",
+      "releaseDate": "2017-07-18",
+      "website": "https://doi.org/10.1007/978-3-319-63859-1_34"
+    },
+    {
+      "name": "A robust NFC-based personalized IPTV service system",
+      "publisher": "Multimedia Tools and Applications",
+      "releaseDate": "2017-03-10",
+      "website": "https://doi.org/10.1007/s11042-017-4380-z"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "familiar",
+      "keywords": [
+        "JavaScript",
+        "PHP",
+        "Java",
+        "C#",
+        "C/C++",
+        "Shell"
+      ]
+    },
+    {
+      "name": "Platform",
+      "level": "familiar",
+      "keywords": [
+        "Windows",
+        "Linux/Unix",
+        "Mac OS X"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "familiar",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MSSQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "familiar",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React/Redux",
+        "AngularJS",
+        "Vue"        
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "familiar",
+      "keywords": [
+        "Node.js",
+        "PHP",
+        "Express",
+        "Koa",
+        "Laravel",
+        "CodeIgniter"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "familiar",
+      "keywords": [
+        "Android",
+        "React Native",
+        "PhoneGap/Cordova",
+        "Ionic"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "familiar"
+    }
+  ]
+}
