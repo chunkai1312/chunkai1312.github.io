@@ -16,9 +16,24 @@
     },
     "profiles": [
       {
-        "network": "GitHub",
+        "network": "facebook",
+        "username": "chunkai1312",
+        "url": "https://facebook.com/chunkai1312"
+      },
+      {
+        "network": "linkedin",
+        "username": "chunkai1312",
+        "url": "https://www.linkedin.com/in/chunkai1312"
+      },
+      {
+        "network": "gitHub",
         "username": "chunkai1312",
         "url": "https://github.com/chunkai1312"
+      },
+      {
+        "network": "slideshare",
+        "username": "chunkai1312",
+        "url": "https://www.slideshare.net/chunkai1312"
       }
     ]
   },
@@ -57,28 +72,6 @@
       "highlights": [
         "協助開發物聯網智慧感測裝置之使用者客製化服務平台",
         "設計資料交換格式與API規範"
-      ]
-    },
-    {
-      "company": "國立臺灣科技大學資訊管理系(所)",
-      "position": "教學助理",
-      "startDate": "2014-09-01",
-      "endDate": "2015-01-31",
-      "summary": "Assisted teaching graduate-level course \"Introduction to RFID Information Security\".",
-      "highlights": [
-        "負責編寫教材並教授程式設計實驗課程",
-        "設計實驗課程基於 Android 裝置和近場通訊技術的相關實作演練"
-      ]
-    },
-    {
-      "company": "國立臺灣科技大學資訊管理系(所)",
-      "position": "教學助理",
-      "startDate": "2014-02-01",
-      "endDate": "2014-06-30",
-      "summary": "Assisted teaching course \"Programming Language\" and introduced object-oriented programming.",
-      "highlights": [
-        "教授不在時指導實驗室部分和講課",
-        "為學生提供了學習Java基礎知識和設計模式基本概念的積極氛圍"
       ]
     },
     {

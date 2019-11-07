@@ -75,28 +75,6 @@
       ]
     },
     {
-      "company": "Department of Information Management, National Taiwan University of Science and Technology",
-      "position": "Teaching Assistant",
-      "startDate": "2014-09-01",
-      "endDate": "2015-01-31",
-      "summary": "Assisted teaching graduate-level course \"Introduction to RFID Information Security\".",
-      "highlights": [
-        "Developed the course material and taught programming lab sections.",
-        "Designed and implemented laboratory exercises based on Android devices and Near-field communication (NFC) technology for the course."
-      ]
-    },
-    {
-      "company": "Department of Information Management, National Taiwan University of Science and Technology",
-      "position": "Teaching Assistant",
-      "startDate": "2014-02-01",
-      "endDate": "2014-06-30",
-      "summary": "Assisted teaching course \"Programming Language\" and introduced object-oriented programming.",
-      "highlights": [
-        "Supervised lab sections and lectured course when professor was unavailable.",
-        "Provided a positive atmosphere to students learning the fundamentals of Java, and basic concepts of Design Patterns."
-      ]
-    },
-    {
       "company": "Taiwan Information Security Center, National Taiwan University of Science and Technology",
       "position": "Research Assistant",
       "startDate": "2013-08-01",
