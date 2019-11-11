@@ -18,7 +18,7 @@
       {
         "network": "facebook",
         "username": "chunkai1312",
-        "url": "https://facebook.com/chunkai1312"
+        "url": "https://facebook.com/kevin.chunkai.wang"
       },
       {
         "network": "linkedin",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "company": "國立臺灣科技大學資訊管理系(所)",
+      "company": "國立臺灣科技大學資訊管理系",
       "position": "兼任研究助理",
       "startDate": "2015-01-01",
       "endDate": "2015-07-31",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "company": "國立臺灣科技大學資通安全研究與教學中心",
+      "company": "國立臺灣科技大學資訊管理系",
       "position": "兼任研究助理",
       "startDate": "2013-08-01",
       "endDate": "2014-07-31",
@@ -94,6 +94,17 @@
       "highlights": [
         "使用VBA開發了用於團隊人事管理的請假系統。",
         "服務單位期間榮獲傑出貢獻獎"
+      ]
+    },
+    {
+      "company": "國立臺灣科技大學資訊管理系",
+      "position": "網頁開發者",
+      "startDate": "2011-10-01",
+      "endDate": "2012-06-30",
+      "summary": "國立臺灣科技大學資訊管理系之系網站建置與開發",
+      "highlights": [
+        "負責網站前、後台程式設計與開發",
+        "使用 PHP/MySQL 建置網站，並確保功能能於主流瀏覽器上正常運作"
       ]
     }
   ],
