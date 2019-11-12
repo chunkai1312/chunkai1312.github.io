@@ -95,6 +95,17 @@
         "Developed a leave system for group's human management by using VBA.",
         "Awarded outstanding contribution award."
       ]
+    },
+    {
+      "company": "Dept. of Information Management, National Taiwan University of Science and Technology",
+      "position": "Web Developer",
+      "startDate": "2011-10-01",
+      "endDate": "2012-06-30",
+      "summary": "Develop the website for the department.",
+      "highlights": [
+        "Responsible for website front-end programming and development.",
+        "Use PHP an MySQL to build the website and make sure it works on mainstream browsers."
+      ]
     }
   ],
   "education": [
