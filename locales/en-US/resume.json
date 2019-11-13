@@ -43,11 +43,11 @@
       "position": "Principal Software Engineer",
       "website": "https://www.wavenet.com.tw",
       "startDate": "2017-07-16",
-      "summary": "Software lead for projects, provided technical direction to the team members, worked closely with the Software Engineers and Product Managers, planned software staffing and product development.",
+      "summary": "Software lead for projects, provided technical direction to the team members, worked closely with the Software Engineers and Product Managers, planned software staffing and product development",
       "highlights": [
-        "Led R&D team members to design and develop an company's internal ad reporting system that improved media team workflow and dramatically increased productivity.",
-        "Introduced Agile Software Development methodology for project that required quick turnaround and transparency.",
-        "Designed, implemented and supported fully automated Continuous Integration and Continuous Delivery processes."
+        "Led R&D team members to design and develop an company's internal ad reporting system that improved media team workflow and dramatically increased productivity",
+        "Introduced Agile Software Development methodology for project that required quick turnaround and transparency",
+        "Designed, implemented and supported fully automated Continuous Integration and Continuous Delivery processes"
       ]
     },
     {
@@ -56,11 +56,11 @@
       "website": "https://www.wavenet.com.tw",
       "startDate": "2015-08-03",
       "endDate": "2017-07-15",
-      "summary": "Participated in system design, development and maintenance for digital marketing advertising platform.",
+      "summary": "Participated in system design, development and maintenance for digital marketing advertising platform",
       "highlights": [
-        "Developed an agency trading desk to integrate Facebook, Google & Punwave DSP to serve ads with dynamic budget allocation.",
-        "Developed an ad optimization system for cross-media performance monitoring and dynamic budget allocation according to the ad performance in real-time.",
-        "Implemented ad pixel code to track and find proper Target Audience for remarketing campaigns."            
+        "Developed an agency trading desk to integrate Facebook, Google & Punwave DSP to serve ads with dynamic budget allocation",
+        "Developed an ad optimization system for cross-media performance monitoring and dynamic budget allocation according to the ad performance in real-time",
+        "Implemented ad pixel code to track and find proper Target Audience for remarketing campaigns"            
       ]
     },
     {
@@ -68,10 +68,11 @@
       "position": "Research Assistant",
       "startDate": "2015-01-01",
       "endDate": "2015-07-31",
-      "summary": "Assisted executing industry-university cooperative research project with Foxlink International Inc.",
+      "summary": "Assisted to execute industry-university cooperative research project with Foxlink International Inc.",
       "highlights": [
-        "Developed a user-customized service platform for IoT-based senser devices.",
-        "Designed data exchange format and API specifications."
+        "Designed and developed a user-oriented IoT service architecture for intelligent sensor devices",
+        "Implemented the platform that can collect, store, analyze, compute, and aggregate the sensing data of all target people or environments, and presented the results to the end users or platform administrators",
+        "Implemented the platform both server-side and client-side applications, including web app and cross-platform mobile app to provide user personalized health management service"
       ]
     },
     {
@@ -79,11 +80,11 @@
       "position": "Research Assistant",
       "startDate": "2013-08-01",
       "endDate": "2014-07-31",
-      "summary": "Assisted researches of National Science Council project \"Integrity Assurance on App Program Source and Data Exchange among Apps\".",
+      "summary": "Assisted to execute National Science Council project \"Integrity Assurance on App Program Source and Data Exchange among Apps\"",
       "highlights": [
-        "Proposed the App source integrity detection mechanisms and modules for Android platform.",
-        "Implemented the App Integrity Detection Application module to allow users to perform integrity verification on specified apps, ensuring that users get apps without security concerns.",
-        "Implemented the App Screener server periodically retrieves the latest legal version of the Apps to create a repository, which is responsible for receiving client program data for integrity verification and returning detection results."
+        "Proposed the App source integrity detection mechanism for Android platform",
+        "Implemented the App Integrity Detection Application module let users to perform integrity verification on specified apps, ensuring that users get apps without security concerns",
+        "Implemented the App Screener server periodically retrieves the latest legal version of the Apps to establish the repository to receive client data for comparison and return test results"
       ]
     },
     {
@@ -93,9 +94,9 @@
       "endDate": "2013-07-07",
       "summary": "Served in Chung Cheng Armed Forces Preparatory School for compulsory military service, led more than 400 students.",
       "highlights": [
-        "Handled affairs of students' rewards and punishments.",
-        "Developed a leave system for group's human management by using VBA.",
-        "Received outstanding contribution award during the service period."
+        "Handled affairs of students' rewards and punishments",
+        "Developed a leave system for group's human management using VBA in Excel",
+        "Received outstanding contribution award during the service period"
       ]
     },
     {
@@ -103,11 +104,11 @@
       "position": "Web Developer",
       "startDate": "2011-10-01",
       "endDate": "2012-06-30",
-      "summary": "Develop the website for the department.",
+      "summary": "Developd the website for the department",
       "highlights": [
-        "Discussed requirements with department staff and plan website functional architecture",
-        "Responsible for database design and website development and maintenance.",
-        "Used PHP and MySQL to build website and make sure it works on mainstream browsers."
+        "Planned website architecture and discussed functional requirements with the department staffs",
+        "Designed database schema and developed SQL scripts to create the database",
+        "Built website using PHP & MySQL, and made sure it works on mainstream browsers"
       ]
     }
   ],
