@@ -81,8 +81,9 @@
       "endDate": "2014-07-31",
       "summary": "Assisted researches of National Science Council project \"Integrity Assurance on App Program Source and Data Exchange among Apps\".",
       "highlights": [
-        "Provided a mechanism to solve App repackaging and source integrity assurance issue.",
-        "Designed and implemented the App Integrity Detection Application module and App Screener server module."
+        "Proposed the App source integrity detection mechanisms and modules for Android platform.",
+        "Implemented the App Integrity Detection Application module to allow users to perform integrity verification on specified apps, ensuring that users get apps without security concerns.",
+        "Implemented the App Screener server periodically retrieves the latest legal version of the Apps to create a repository, which is responsible for receiving client program data for integrity verification and returning detection results."
       ]
     },
     {
@@ -104,8 +105,9 @@
       "endDate": "2012-06-30",
       "summary": "Develop the website for the department.",
       "highlights": [
-        "Responsible for website front-end programming and development.",
-        "Use PHP an MySQL to build the website and make sure it works on mainstream browsers."
+        "Discussed requirements with department staff and plan website functional architecture",
+        "Responsible for database design and website development and maintenance.",
+        "Used PHP and MySQL to build website and make sure it works on mainstream browsers."
       ]
     }
   ],
