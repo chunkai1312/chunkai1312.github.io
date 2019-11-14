@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Chun-Kai Wang",
-    "label": "Web Developer",
+    "label": "Full Stack Web Developer",
     "picture": "https://s.gravatar.com/avatar/a770595a74d872ac85e9ae1b12bb67a3?s=240",
     "email": "chunkai1312@gmail.com",
     "phone": "+886-975-923-503",
     "website": "https://blog.ckwang.net",
-    "summary": "A full-stack engineer, focus on JavaScript/Node.js, Web Development and DevOps.",
+    "summary": "A full-stack engineer, focus on TypeScript/JavaScript/Node.js/React.js and DevOps.",
     "location": {
       "address": "No.109, Ln. 95, Guling St., Zhongzheng Dist.",
       "postalCode": "10085",
