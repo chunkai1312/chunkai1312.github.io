@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "王雋凱",
-    "label": "Full Stack Web Developer",
+    "label": "Software Engineer",
     "picture": "https://s.gravatar.com/avatar/a770595a74d872ac85e9ae1b12bb67a3?s=240",
     "email": "chunkai1312@gmail.com",
     "phone": "+886-975-923-503",
     "website": "https://blog.ckwang.net",
-    "summary": "一個網頁全端開發者，目前專注於 TypeScript/JavaScript/Node.js/React.js 及 DevOps，並維護數個開源專案。",
+    "summary": "一個軟體工程師，目前專注於 TypeScript/JavaScript/Node.js/React.js 及 DevOps，並維護數個開源專案。",
     "location": {
       "address": "中正區牯嶺街95巷109號",
       "postalCode": "10085",
@@ -39,10 +39,23 @@
   },
   "work": [
     {
+      "company": "群馥科技股份有限公司",
+      "position": "資深後端工程師",
+      "website": "https://www.fugle.tw",
+      "startDate": "2020-02-03",
+      "summary": "開發與維護 Fugle 後端系統，包括資料庫處理、資料搜集、搜尋演算與儲存以及後端效能優化",
+      "highlights": [
+        "開發與維護即時行情 API 系統、FugleTrade 交易系統",
+        "開發與維護多平台 bot 系統，包括 Facebook Messenger, Line 等",
+        "流程及後端效能優化"
+      ]
+    },
+    {
       "company": "潮網科技股份有限公司",
       "position": "主任工程師",
       "website": "https://www.wavenet.com.tw",
       "startDate": "2017-07-16",
+      "endDate": "2020-01-31",
       "summary": "領導軟體專案開發，為團隊成員提供技術指導與解決方案。與軟體工程師和產品經理密切合作，規劃軟體人員與產品開發",
       "highlights": [
         "領導研發團隊成員，設計和開發公司內部的廣告報表系統，以改善媒體團隊的工作流程並大幅提高生產力",

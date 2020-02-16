@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Chun-Kai Wang",
-    "label": "Full Stack Web Developer",
+    "label": "Software Engineer",
     "picture": "https://s.gravatar.com/avatar/a770595a74d872ac85e9ae1b12bb67a3?s=240",
     "email": "chunkai1312@gmail.com",
     "phone": "+886-975-923-503",
     "website": "https://blog.ckwang.net",
-    "summary": "A full-stack engineer, focus on TypeScript/JavaScript/Node.js/React.js and DevOps.",
+    "summary": "A software engineer, focus on TypeScript/JavaScript/Node.js/React.js and DevOps.",
     "location": {
       "address": "No.109, Ln. 95, Guling St., Zhongzheng Dist.",
       "postalCode": "10085",
@@ -39,10 +39,23 @@
   },
   "work": [
     {
+      "company": "Fortuna Intelligence Co., Ltd.",
+      "position": "Sr. Backend Engineer",
+      "website": "https://www.fugle.tw",
+      "startDate": "2020-02-03",
+      "summary": "Develop and maintain back-end system of Fugle, and be responsible for workflow automation, process optimization, and performance tuning",
+      "highlights": [
+        "Develop and maintain back-end realtime stock API services and the stock trading system",
+        "Develop and maintain the bot system on multiple platforms",
+        "Responsible for workflow automation, process optimization, and performance tuning"
+      ]
+    },
+    {
       "company": "Wavenet Technology Co., Ltd.",
       "position": "Principal Software Engineer",
       "website": "https://www.wavenet.com.tw",
       "startDate": "2017-07-16",
+      "endDate": "2020-01-31",
       "summary": "Software lead for projects, provided technical direction to the team members, worked closely with the Software Engineers and Product Managers, planned software staffing and product development",
       "highlights": [
         "Led R&D team members to design and develop an company's internal ad reporting system that improved media team workflow and dramatically increased productivity",
