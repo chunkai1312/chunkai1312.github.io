@@ -20,10 +20,10 @@ const useStyles = makeStyles((theme: Theme) =>
       },
     },
     barClass: {
-      height: 865,
+      height: 1000,
       top: 80,
       [theme.breakpoints.down('md')]: {
-        height: 1300,
+        height: 1750,
         top: 20,
         zIndex: -1,
       },
