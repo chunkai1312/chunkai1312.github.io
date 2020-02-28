@@ -16,24 +16,29 @@
     },
     "profiles": [
       {
-        "network": "facebook",
-        "username": "chunkai1312",
-        "url": "https://facebook.com/kevin.chunkai.wang"
-      },
-      {
         "network": "linkedin",
         "username": "chunkai1312",
         "url": "https://www.linkedin.com/in/chunkai1312"
       },
       {
-        "network": "gitHub",
+        "network": "github",
         "username": "chunkai1312",
         "url": "https://github.com/chunkai1312"
       },
       {
-        "network": "slideshare",
+        "network": "twitter",
         "username": "chunkai1312",
-        "url": "https://www.slideshare.net/chunkai1312"
+        "url": "https://www.twitter.com/chunkai1312"
+      },
+      {
+        "network": "facebook",
+        "username": "chunkai1312",
+        "url": "https://www.facebook.com/kevin.chunkai.wang"
+      },
+      {
+        "network": "instagram",
+        "username": "chunkai1312",
+        "url": "https://www.instagram.com/chunkai1312"
       }
     ]
   },
