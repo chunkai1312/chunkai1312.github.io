@@ -37,7 +37,7 @@ function Summary() {
         variant="outlined"
         className={classes.button}
         component="a"
-        href={`${process.env.PUBLIC_URL}/resume.pdf`}
+        href="https://www.cakeresume.com/s--IiExWBwQHhla13Y8jYIPgA--/chun-kai-wang"
         target="_blank"
         rel="noopener noreferrer"
         color="inherit"

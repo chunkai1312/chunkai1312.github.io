@@ -36,13 +36,6 @@ function SocialIcons(props: SocialIconsProps) {
 
   return (
     <Grid item container alignContent="center" justify="center" spacing={0} className={classes.root}>
-      <SocialIcon
-        className={classes.button}
-        network="email"
-        fontSize="24px"
-        bgColor={color}
-        url={`mailto:${resume.basics.email}`}
-      />
       {socials.map((social, index) => (
         <SocialIcon
           key={index}
