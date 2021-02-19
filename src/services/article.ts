@@ -12,7 +12,7 @@ interface Article {
 }
 
 export async function getArticles() {
-  const baseUrl = 'https://blog.chunkai.me';
+  const baseUrl = 'https://chunkai.blog';
   const url = `${baseUrl}/api/posts.json`;
   const response = await axios.get(url);
 
