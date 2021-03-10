@@ -15,7 +15,7 @@
     "@types/react-scroll": "^1.5.4",
     "@types/recompose": "^0.30.7",
     "animate.css": "^3.7.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "clsx": "^1.0.4",
     "gh-pages": "^2.1.1",
     "google-map-react": "^1.1.5",
